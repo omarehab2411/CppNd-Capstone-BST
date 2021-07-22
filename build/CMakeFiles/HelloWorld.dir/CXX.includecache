@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/BST.h
+iostream
+-
+stack
+-
+
+/home/workspace/CppND-Capstone-Hello-World/src/main.cpp
+iostream
+-
+BST.h
+/home/workspace/CppND-Capstone-Hello-World/src/BST.h
+
