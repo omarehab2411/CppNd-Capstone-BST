@@ -3,6 +3,7 @@
 This is a repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
 
 ## Project description
+<img src="BST.gif"/>
 * This projects Implements a generic Binary search tree data structure and by generic I mean that the user can create a node of any data type this concept is possible 
   by using C++ class templates which is knows as "Generic programming".
 
